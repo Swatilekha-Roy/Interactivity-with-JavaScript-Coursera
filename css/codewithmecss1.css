@@ -1,0 +1,24 @@
+.closed {
+	display: none;
+}
+
+.open {
+	display: block;
+}
+
+button {
+	width: 25%;
+	background-color: #fb8aff;
+	margin-left: 200px;
+	display: inline-block;
+	font-size: 100%;
+	font-family: "Comic Sans MS";
+}
+
+#demo {
+	color: white;
+	background-color: #6d6868;
+	padding: 15px;
+	font-size: 130%;
+	text-align: center;
+}

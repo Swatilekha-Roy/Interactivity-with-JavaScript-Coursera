@@ -14,6 +14,8 @@ function billingFunction()
 	 }
 	 else
 	 {
+	    billingname.value="";
+	    billingzip.value="";
 	    billingname.removeAttribute("required");
 	    billingzip.removeAttribute("required");
 	 }
